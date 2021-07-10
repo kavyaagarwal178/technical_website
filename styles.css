@@ -1,0 +1,228 @@
+*{
+  margin:0;
+  padding:0;
+  font-family:sans-serif;
+}
+
+ul li{
+  display: inline-block;
+  text-align:center;
+  }
+
+h1{
+  text-align: center;
+  color:#0889F2;
+  font-family:'Festive',cursive;
+}
+
+p{
+  text-align: center;
+  font-family: 'Courgette', cursive;
+}
+
+h3{
+  text-align: center;
+  color:#E20FFE;
+  font-family: 'Pacifico', cursive;
+}
+
+footer{
+  background:#B1A2B3;
+  height:200px;
+}
+
+h2{
+  text-align: center;
+  color:#D71F94;
+  font-family:'Yellowtail', cursive;
+}
+
+h4{
+  text-align: center;
+  color:#26DFF3;
+  font-family:'Alegreya', serif;
+}
+
+
+.h1{
+  color: #E20FFE;
+  font-family: 'Times New Roman', Times, serif ;
+}
+
+
+.topic{
+  font-family:'Antic Slab', serif;
+  color:deeppink;
+}
+
+.paragraph{
+  font-family:'Vollkorn', serif;
+  text-align: justify;
+}
+
+.d{
+  color:magenta;
+}
+
+
+/*wt.html*/
+.tools{
+  color:palevioletred;
+  font-family: 'Balsamiq Sans', cursive;
+}
+
+.t{
+  color:darksalmon;
+  text-align: justify;
+}
+
+.e{
+  text-align: justify;
+  font-family: 'Red Hat Display', sans-serif;
+}
+
+/*what.html*/
+.color{
+  background-color:rgb(208, 238, 238);
+}
+
+.heading{
+  font-family:'Permanent Marker', cursive;
+  color: #D71F94;
+}
+ 
+.aboutweb{
+  color:indigo;
+  font-family: 'ABeeZee', sans-serif;
+}
+
+.text{
+  font-family: monospace;
+  text-align: justify;
+}
+
+.text-t{
+  color:lightcoral;
+  text-align:center;
+  font-family: 'Architects Daughter', cursive;
+}
+
+
+/*tn.html*/
+.head{
+  color:rgb(236, 100, 120);
+  font-family:'Oxygen', sans-serif;
+  text-align: center;
+}
+
+
+.it{
+  color:blue;
+  font-family: 'Encode Sans SC', sans-serif;;
+}
+
+.whatis{
+  color:crimson;
+  text-align: center;
+  font-family: 'Uchen', serif;
+}
+
+.para{
+  font-family:'Montserrat', sans-serif;
+  text-align: left;
+}
+
+.one{
+  color:#E20FFE;
+  text-align: left;
+}
+
+.ai{
+  color:blueviolet;
+  font-family:'DM Mono', monospace;
+}
+
+.define{
+  color:chocolate;
+  font-family: 'Xanh Mono', monospace;
+}
+
+.defin{
+  font-family:'Shadows Into Light', cursive;
+  text-align: justify;
+  color:black;
+}
+
+.hea{
+  color:rgb(38, 0, 255);
+  text-align: justify;
+}
+
+/*g1.html*/
+.grap{
+  color:orchid;
+  font-family: 'Source Serif Pro', serif;
+}
+
+.gd{
+  color:palevioletred;
+  font-family:'Amiri', serif;
+}
+
+.design{
+  color:black;
+  font-family: 'Sawarabi Mincho', sans-serif;
+  text-align:left;
+}
+
+.h{
+  color:rgb(219, 81, 212);
+  font-family: 'Special Elite', cursive;
+  text-align:left;
+}
+
+/*g2.html*/
+.tool{
+  color:turquoise;
+  font-family: 'Ubuntu Mono', monospace;
+}
+
+.name{
+  color:tomato;
+  font-family: 'Yomogi', cursive;
+  text-align: center;
+}
+
+.description{
+  color:rgb(202, 48, 202);
+  font-family:'Satisfy', cursive;
+  text-align: justify;
+}
+
+.parag{
+  color:black;
+  text-align: justify;
+  font-family: 'Kalam', cursive;
+}
+
+/*g3.html*/
+.c{
+  color:hotpink;
+  font-family: 'Yomogi', cursive;
+}
+
+.a{
+  color:lawngreen;
+  font-family:'Crimson Text', serif;
+  text-align: center;
+}
+
+.b{
+  font-family:'Zilla Slab', serif;
+  text-align:justify;
+}
+
+.d{
+  color:rgb(158, 40, 212);
+  font-family: 'Satisfy', cursive;
+}
